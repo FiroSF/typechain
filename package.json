@@ -1,0 +1,9 @@
+{
+  "name": "typechain",
+  "version": "1.0.0",
+  "description": "learning ts",
+  "main": "index.js",
+  "repository": "https://github.com/FiroSF/typechain.git",
+  "author": "Firo_SF",
+  "license": "MIT"
+}
